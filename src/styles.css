@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    background: #e7e8e9;
+}
+html{
+    height: 100%;
+    background: #e7e8e9;
+}
+body{
+    height: 100%;
+    background: #e7e8e9;
+    margin: 0 !important;
+}
